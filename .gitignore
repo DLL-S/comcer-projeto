@@ -26,7 +26,3 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
-# Office tmp files
-~$**
-
