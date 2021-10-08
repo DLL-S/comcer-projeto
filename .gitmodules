@@ -1,12 +1,12 @@
-[submodule "3. Desenvolvimento/3. Implementação/comcer-backend"]
-	path = 3. Desenvolvimento/3. Implementação/comcer-backend
+[submodule "3. Desenvolvimento/3. Implementacao/comcer-backend"]
+	path = 3. Desenvolvimento/3. Implementacao/comcer-backend
 	url = https://github.com/DLL-S/comcer-backend.git
 	ignore = dirty
-[submodule "3. Desenvolvimento/3. Implementação/comcer-frontend"]
-	path = 3. Desenvolvimento/3. Implementação/comcer-frontend
+[submodule "3. Desenvolvimento/3. Implementacao/comcer-frontend"]
+	path = 3. Desenvolvimento/3. Implementacao/comcer-frontend
 	url = https://github.com/DLL-S/comcer-frontend.git
 	ignore = dirty
-[submodule "3. Desenvolvimento/3. Implementação/comcer-mobile"]
-	path = 3. Desenvolvimento/3. Implementação/comcer-mobile
+[submodule "3. Desenvolvimento/3. Implementacao/comcer-mobile"]
+	path = 3. Desenvolvimento/3. Implementacao/comcer-mobile
 	url = https://github.com/DLL-S/comcer-mobile.git
 	ignore = dirty
