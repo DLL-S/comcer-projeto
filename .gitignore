@@ -27,3 +27,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 *.lock
+
+# Office temp files
+~$*.*
+*.tmp
